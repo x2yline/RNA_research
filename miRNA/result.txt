@@ -1,0 +1,20 @@
+set seed_length = 18
+Get hsa-miR-574-5p and WNT10B
+Get hsa-miR-574-5p and CHRNA2
+Get hsa-miR-574-5p and NRN1
+Get hsa-miR-574-5p and BCL7A
+Get hsa-miR-574-5p and CNTFR
+Get hsa-miR-574-5p and PHGR1
+Get hsa-miR-6845-5p and SYNPO2L
+Get hsa-miR-144-3p and CNKSR2
+Get hsa-miR-3656 and TCEA3
+Get hsa-miR-365b-3p and AKAP7
+Get hsa-miR-6873-3p and RBM39
+Get hsa-miR-4532 and KDM3B
+Get hsa-miR-514b-3p and TESPA1
+Get hsa-miR-1277-5p and CBWD3
+Get hsa-miR-365a-3p and AKAP7
+Get hsa-miR-3620-5p and ZNF385D
+Get hsa-miR-429 and AKAP7
+
+
